@@ -24,5 +24,5 @@ Which county had the largest number of votes?
   * The candidate that won the election was Diana Degette with 272,892 votes, and a total percentage of 73.8% of votes
   
 
-# Summary
+## Summary
 The script can be modified and used for any county elections, and any candidates by replacing the items in the list. For instance, if we received an election_result.csv file with different names and counties, such as "John Smith", "Mary Jane", "Alvin Lames" and "El Paso", "Baldwin" and "Dallas", these can be factored into the code. Another way the code can be utilized in any election includes if our election_results.csv had "Region". We can use the same logic and steps that we used for Largest County Turnout and apply it to understanding the voter turnout per region and the region size of each county. 
